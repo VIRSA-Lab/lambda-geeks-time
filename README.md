@@ -1,7 +1,3 @@
-Here’s your refined version of the `README.md` content with polished language and formatting. I’ve preserved all original links and structure:
-
----
-
 # λ-Geeks' Time
 
 *A weekly paper discussion forum for LiDAR, Remote Sensing, and Multimodal Sensing Research*
