@@ -43,7 +43,7 @@ Have a suggestion? Feel free to add it to the “pool” tab!
 
 * **Discussion Time**: To be decided based on group availability.
   [**Vote here**](https://www.when2meet.com/?30671185-vrTcK):
-  No registration needed — just enter your name, then click and drag your available time slots (Wed/Thu/Fri, mornings or afternoons).
+  No registration needed — just enter your name, then click and drag your available time slots (Wed/Thu/Fri, mornings or afternoons). voting deadline: This Friday, 05/23/2025, at 9:00 AM.
 
 
 
