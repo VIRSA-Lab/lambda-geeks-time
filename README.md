@@ -33,17 +33,23 @@ Have a suggestion? Feel free to add it to the “pool” tab!
 
 ### 🗓️ Schedule
 
-* **Paper Proposals**: Three paper options are shared the week before via Slack and Email.
 
-* **Voting Deadline**: Mondays by 6:00 PM
-  [**Vote here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is):
-  👍 Click the thumbs-up icon to vote, and sign up in the table below.
+* **📄 Paper Proposals**:
+  Three paper options are shared the week prior via Slack and Email.
+
+* **🗳️ Vote for the Paper(s) to Discuss**:
+  Cast your vote [**here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is).
+  👍 Click the thumbs-up icon next to your choice, and sign up in the table below.
+  **Voting deadline: Mondays at 6:00 PM**
 
   <img src="resources/Vote_sign_up.jpg" width="300" height="300">
 
-* **Discussion Time**: To be decided based on group availability.
-  [**Vote here**](https://www.when2meet.com/?30671185-vrTcK):
-  No registration needed — just enter your name, then click and drag your available time slots (Wed/Thu/Fri, mornings or afternoons). voting deadline: This Friday, 05/23/2025, at 9:00 AM.
+* **🕒 Discussion Time**:
+  Will be set based on group availability.
+  [**Vote here**](https://www.when2meet.com/?30671185-vrTcK): no registration required—just enter your name and drag to highlight your available time slots (Wed/Thu/Fri, mornings or afternoons).
+  **Voting deadline: Friday, 05/23/2025, at 9:00 AM**
+
+
 
 
 
