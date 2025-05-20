@@ -39,7 +39,7 @@ Have a suggestion? Feel free to add it to the “pool” tab!
 
 * **🗳️ Vote for the Paper(s) to Discuss**:
   Cast your vote [**here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is).
-  👍 Click week number to skim the papers; then click the thumbs-up icon(s) below your choice(s). Sign up in the table below if you haven't.  
+  👍 Click the week number to skim the papers; then click the thumbs-up icon(s) below your choice(s). Sign up in the table below if you haven't.  
   **Voting deadline: Mondays at 6:00 PM**
 
   <img src="resources/Vote_sign_up.jpg" width="300" height="300">
