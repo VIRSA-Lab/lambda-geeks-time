@@ -1,4 +1,4 @@
-# λ-Geeks' Time
+# 🎓🤓📚 λ-Geeks' Time 📚🤓🎓
 
 *A weekly paper discussion forum for LiDAR, Remote Sensing, and Multimodal Sensing Research*
 
