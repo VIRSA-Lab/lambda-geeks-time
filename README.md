@@ -18,7 +18,7 @@ Our goals are to:
 * **Learn with fun**: Make paper reading a lively, idea-driven group experience
 
 Interested in joining? Sign up here:
-👉 [**λ-Geeks' Time Sign-Up**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is#bookmark=id.n0rl6ms6w2tc)
+👉 [**λ-Geeks' Time Sign-Up**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is#bookmark=id.msxv37lwb7ma)
 
 Whether you're an undergraduate, graduate student, or postdoc — all are welcome!
 Feel free to bring your own ideas and paper suggestions. While we encourage regular participation, you're always welcome to drop in for topics that interest you.
