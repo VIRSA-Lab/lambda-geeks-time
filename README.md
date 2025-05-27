@@ -2,11 +2,11 @@
 
 *A weekly paper discussion forum for LiDAR, Remote Sensing, and Multimodal Sensing Research*  
 
-Welcome to **λ-Geeks' Time**! This repository hosts the materials and logistics for our weekly group paper discussions. The symbol **λ (lambda)**—representing *spectrum*—reflects the wide range of interconnected topics we explore: from **LiDAR** and **multispectral imaging** to **advanced AI techniques** and **geospatial analysis**.
+Welcome to **λ-Geeks' Time**! This repository hosts the materials and logistics for our weekly group paper discussions. The symbol **λ** (lambda)—representing *spectrum*—reflects the wide range of interconnected topics we explore: from **LiDAR** and **multispectral imaging** to **advanced AI techniques** and **geospatial analysis**.
 
 Each week, we come together to dive into a research paper related to above topics. These sessions help us sharpen our understanding of cutting-edge work and explore its relevance to our own research.
 
-### Our Goals:
+Our Goals:
 
 * **Stay sharp and curious** – Track breakthroughs in LiDAR, AI, and sensing systems to stay on the cutting edge.
 * **Build collective insight** – Share perspectives and strategies to accelerate understanding and problem-solving.
