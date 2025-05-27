@@ -1,27 +1,32 @@
+<!-- countdown.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Countdown Timer</title>
+  <meta charset="UTF-8">
+  <title>Countdown to Launch</title>
   <style>
     body {
       font-family: sans-serif;
       text-align: center;
       margin-top: 100px;
+      background-color: #f8f9fa;
+    }
+    h1 {
+      font-size: 2rem;
     }
     #countdown {
-      font-size: 2rem;
+      font-size: 2.5rem;
+      color: #007BFF;
     }
   </style>
 </head>
 <body>
-  <h1>⏳ Countdown to Launch!</h1>
+  <h1>🚀 Countdown to Launch</h1>
   <div id="countdown">Loading...</div>
 
   <script>
-    const targetDate = new Date("2025-05-30T15:00:00Z"); // set your target date here (UTC)
-    
+    const targetDate = new Date("2025-05-30T15:00:00Z");
+
     function updateCountdown() {
       const now = new Date();
       const diff = targetDate - now;
