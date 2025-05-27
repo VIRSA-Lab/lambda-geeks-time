@@ -21,39 +21,33 @@ Interested in joining? Sign up here:
 👉 [**λ-Geeks' Time Sign-Up**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is#bookmark=id.msxv37lwb7ma)
 
 Whether you're an undergraduate, graduate student, or postdoc — all are welcome!
-Feel free to bring your own ideas and paper suggestions. While we encourage regular participation, you're always welcome to drop in for topics that interest you.
+Feel free to bring your own ideas and paper suggestions. **While we encourage regular participation, you're always welcome to drop in for topics that interest you.**
 
 ---
 
-### Paper Proposals
-
-Browse our active proposals in [this doc](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.0).
-Have a suggestion? Feel free to add it to the “pool” tab!
 
 
-### 🗓️ Schedule
+## How to Take Part
 
+- **Step 1: 📄 Check Out the Paper Proposals**
+Three paper options will be shared the week before via Slack and email.
 
-* **📄 Paper Proposals**:
-  Three paper options are shared the week prior via Slack and Email.
+- **Step 2: 🗳️ Vote for the Paper(s) to Discuss**
+Cast your vote [**here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is).
+👉 Click the **week number** to view the paper list, then hit the **thumbs-up icon** below your preferred choice(s).
+🖊️ Don’t forget to **sign up in the table** below if you haven't yet.
+⏰ **Voting deadline: Mondays at 6:00 PM**
 
-* **🗳️ Vote for the Paper(s) to Discuss**:
-  Cast your vote [**here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is).
-  👍 Click the week number to skim the papers; then click the thumbs-up icon(s) below your choice(s). Sign up in the table below if you haven't.  
-  **Voting deadline: Mondays at 6:00 PM**
+<img src="resources/Vote_sign_up.jpg" width="300" height="300">
 
-  <img src="resources/Vote_sign_up.jpg" width="300" height="300">
-
-* **🕒 Discussion Time**:
-  Will be set based on group availability.
-  [**Vote here**](https://www.when2meet.com/?30671185-vrTcK): no registration required—just enter your name and drag to highlight your available time slots (Wed/Thu/Fri, mornings or afternoons).
-  **Voting deadline: Friday, 05/23/2025, at 9:00 AM**
+- **Step 3: 🕒 Join the Discussion**: **Fridays, 3:00 - 4:00 PM**
 
 
 
+---
 
 
-### Topics
+## Topics
 
 * **LiDAR Point Cloud Processing**
 
@@ -66,9 +60,9 @@ Have a suggestion? Feel free to add it to the “pool” tab!
 
 
 
-### Format
+## Format
 
-Each session includes a presenter-prepared outline that covers:
+Each session, we will try to break down the paper and cover:
 
 * **When & Where**: Publication date, journal/conference venue
 * **Who**: Background of key authors
@@ -80,9 +74,11 @@ Each session includes a presenter-prepared outline that covers:
   * Programming language & dependencies
   * Hardware requirements (e.g., GPU, sensors)
 
-All slides and outlines will be uploaded to the `resources/` folder.
+All notes will be updated in [this doc](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.0).
 
-### Contact
+Questions and discussions are highly encouraged any time during the session.
+
+## Contact
 
 For questions or suggestions, reach out to **Fei Zhang** on Slack or by email.
 
