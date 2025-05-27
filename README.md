@@ -22,19 +22,20 @@ Let’s challenge ourselves, expand our vision, and grow—together.
 
 ## How to Take Part
 
-- Step 1: Check Out the Paper Proposal
+- Step 1: Check Out the Paper Proposal  
 Three paper options will be shared the week before via Slack and email.
 
-- Step 2: Vote for the Paper(s) to Discuss
-Cast your vote [**here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is).
+- Step 2: Vote for the Paper(s) to Discuss [**Here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is)
   - Click the **week number** to view the paper list, then hit the **thumbs-up icon** below your preferred choice(s).
   - Don’t forget to **sign up in the table** below if you haven't yet.
-  - Voting deadline: **Mondays at 6:00 PM**
+  - Voting deadline: **Mondays at 5:00 PM**
 
 <img src="resources/Vote_sign_up.jpg" width="300" height="300">
 
-- Step 3: Read the Paper ahead.
-- Step 4: Join the Discussion - **Fridays, 3:00 - 4:00 PM**;  🕒 [Time Until Next Session](https://virsa-lab.github.io/lambda-geeks-time) 🕒
+- Step 3: Read the Paper Ahead  
+The chosen paper (based on voting) will be shared via email every Monday night. Please read it ahead—whether just skimming or diving in thoroughly.
+- Step 4: Join the Discussion - **Fridays, 3:00 - 4:00 PM**.  
+🕒 [Time Until Next Session](https://virsa-lab.github.io/lambda-geeks-time) 🕒
 
 
 
