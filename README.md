@@ -33,9 +33,10 @@ Three paper options will be shared the week before via email.
 <img src="resources/Vote_sign_up.jpg" width="300" height="300">
 
 - Step 3: Read the Paper Ahead  
-The chosen paper (based on voting) will be shared via email every Monday night. Please read it ahead—whether just skimming or diving in thoroughly.
+The chosen paper (based on voting) will be shared via email every Monday night. Please read it ahead—whether just skimming or diving in thoroughly. Give it at least as much time as a medium Starbucks coffee ☕ — it’ll help make our discussion more engaging.
 - Step 4: Join the Discussion - **Fridays, 3:00 - 4:00 PM**.  
-🕒 [Time Until Next Session](https://virsa-lab.github.io/lambda-geeks-time) 🕒
+🕒 [Time Until Next Session](https://virsa-lab.github.io/lambda-geeks-time) 🕒  
+💬 Questions and discussion are highly encouraged at any time during the session.
 
 
 
@@ -71,8 +72,6 @@ In each session, we’ll break down the paper and discuss:
   * Hardware requirements (e.g., GPU, sensors)
 
 📝 All notes will be updated in [**this document**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.0).
-
-💬 Questions and discussion are highly encouraged at any time during the session.
 
 
 
