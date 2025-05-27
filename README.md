@@ -23,7 +23,7 @@ Let’s challenge ourselves, expand our vision, and grow—together.
 ## How to Take Part
 
 - Step 1: Check Out the Paper Proposal  
-Three paper options will be shared the week before via Slack and email.
+Three paper options will be shared the week before via email.
 
 - Step 2: Vote for the Paper(s) to Discuss [**Here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZVJzuS0EeOU4mtVxyJrCBGTMvU/edit?tab=t.mds9qz7e29is)
   - Click the **week number** to view the paper list, then hit the **thumbs-up icon** below your preferred choice(s).
