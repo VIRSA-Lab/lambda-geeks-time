@@ -34,7 +34,8 @@ Cast your vote [**here**](https://docs.google.com/document/d/1qtEVUmaqrHbyZwN6tZ
 <img src="resources/Vote_sign_up.jpg" width="300" height="300">
 
 - Step 3: Read the Paper ahead.
-- Step 4: Join the Discussion - **Fridays, 3:00 - 4:00 PM**
+- Step 4: Join the Discussion - **Fridays, 3:00 - 4:00 PM**; Time until next session 🕒 [Countdown to Event](https://github.com/VIRSA-Lab/lambda-geeks-time/docs/countdown.html)
+
 
 
 
