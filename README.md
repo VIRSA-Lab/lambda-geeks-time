@@ -1,26 +1,22 @@
 # 🎓🤓📚 λ-Geeks' Time 📚🤓🎓
 
-*A weekly paper discussion forum for LiDAR, Remote Sensing, and Multimodal Sensing Research*
+*A weekly paper discussion forum for LiDAR, Remote Sensing, and Multimodal Sensing Research*  
 
-Welcome to **λ-Geeks' Time**! This repository hosts materials and logistics for our weekly group paper discussions. The symbol **λ (lambda)** stands for *spectrum*, reflecting the broad yet interconnected themes we explore—from LiDAR and multispectral imaging to advanced AI techniques and geospatial analysis.
+Welcome to **λ-Geeks' Time**! This repository hosts the materials and logistics for our weekly group paper discussions. The symbol **λ (lambda)**—representing *spectrum*—reflects the wide range of interconnected topics we explore: from **LiDAR** and **multispectral imaging** to **advanced AI techniques** and **geospatial analysis**.
+
+Each week, we come together to dive into a research paper related to above topics. These sessions help us sharpen our understanding of cutting-edge work and explore its relevance to our own research.
+
+### Our Goals:
+
+* **Stay sharp and curious** – Track breakthroughs in LiDAR, AI, and sensing systems to stay on the cutting edge.
+* **Build collective insight** – Share perspectives and strategies to accelerate understanding and problem-solving.
+* **Explore with purpose** – Connect research to real-world applications and our own projects.
+
+Whether you're an undergraduate, graduate student, or postdoc, you're warmly welcome here. Bring your curiosity, your questions, and your own paper suggestions! While we encourage regular participation, feel free to join whenever a topic sparks your interest.
+
+Let’s challenge ourselves, expand our vision, and grow—together.
 
 
----
-
-## Weekly Paper Discussion
-
-Each week, we come together to discuss a paper related to LiDAR, remote sensing, or multimodal sensing. These sessions are designed to deepen our understanding of cutting-edge research and explore how it connects to our own work.
-
-Our goals are to:
-
-* **Learn with ambition**: Stay informed on the latest breakthroughs in LiDAR, remote sensing, and AI
-* **Learn efficiently**: Share insights, save time, and grow together
-* **Learn with fun**: Make paper reading a lively, idea-driven group experience
-
-Whether you're an undergraduate, graduate student, or postdoc — all are welcome!
-Feel free to bring your own ideas and paper suggestions. **While we encourage regular participation, you're always welcome to drop in for topics that interest you.**
-
----
 
 
 
