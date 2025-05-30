@@ -34,7 +34,7 @@ Three paper options will be shared the week before via email.
 
 - Step 3: Read the Paper Ahead  
 The chosen paper (based on voting) will be shared via email every Monday night. Please read it ahead—whether just skimming or diving in thoroughly. Give it at least as much time as a medium Starbucks coffee ☕ — it’ll help make our discussion more engaging.
-- Step 4: Join the Discussion - **Fridays, 3:00 - 4:00 PM**.  
+- Step 4: Join the Discussion - **Fridays, 10:00 - 11:00 AM**.  
 🕒 [Time Until Next Session](https://virsa-lab.github.io/lambda-geeks-time) 🕒  
 💬 Questions and discussion are highly encouraged at any time during the session.
 
