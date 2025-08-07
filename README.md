@@ -39,13 +39,14 @@ After each session, the paper for next sesssion will be sent by email. Please re
 
 ## Topics
 
-* **LiDAR Point Cloud Processing**
+* **LiDAR Point Cloud**
 
   * Registration
   * Segmentation
   * Multimodal Fusion (e.g., LiDAR + RGB / Multispectral / Hyperspectral)
 * **Sensor Alignment & Calibration**
 * **AI for Remote Sensing**
+* **Transformer**
 * ... and more!
 
 
