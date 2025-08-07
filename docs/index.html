@@ -23,9 +23,31 @@
 <body>
   <h1>🚀 Countdown to next session</h1>
   <div id="countdown">Loading...</div>
-
   <script>
-    const targetDate = new Date("2025-07-11T11:00:00Z");
+    // Function to get the next Friday at 11:00 AM EDT
+    function getNextFridayEDT() {
+      const now = new Date();
+      
+      // Create a date for this Friday at 11:00 AM EDT (15:00 UTC)
+      const thisFriday = new Date();
+      const dayOfWeek = now.getDay(); // 0 = Sunday, 5 = Friday
+      const daysUntilFriday = (5 - dayOfWeek + 7) % 7;
+      
+      thisFriday.setDate(now.getDate() + daysUntilFriday);
+      thisFriday.setUTCHours(15, 0, 0, 0); // 11:00 AM EDT = 15:00 UTC
+      
+      // If today is Friday and we haven't passed 11:00 AM EDT yet, use today
+      if (dayOfWeek === 5 && now < thisFriday) {
+        return thisFriday;
+      }
+      
+      // Otherwise, get next Friday
+      const nextFriday = new Date(thisFriday);
+      nextFriday.setDate(thisFriday.getDate() + (daysUntilFriday === 0 ? 7 : 0));
+      return nextFriday;
+    }
+
+    const targetDate = getNextFridayEDT();
 
     function updateCountdown() {
       const now = new Date();
