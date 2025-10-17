@@ -269,3 +269,13 @@ flowchart LR
 ```
 
 [figma:SAM_and_SAM2_module_tree](https://www.figma.com/board/kB6W21Ivemfy9ZS728DO7g/SAM-vs-SAM2-Module-Tree?node-id=0-1&p=f&t=LLZb0IgmVOXV165h-0)
+
+| Model           | Paper title / link                                                                             | Notes                                                                                                                                                                       |
+| --------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ViT**         | *“An Image is Worth 16×16 Words: Transformers for Image Recognition at Scale”* — arXiv / PDF   | [arXiv 2010.11929 / PDF](https://arXiv.org/abs/2010.11929) ([Hugging Face][1])                                                                                              |
+| **MAE**         | *“Masked Autoencoders Are Scalable Vision Learners”* — arXiv / PDF                             | [arXiv 2111.06377](https://arXiv.org/abs/2111.06377) ([Reddit][2])                                                                                                          |
+| **DETR**        | *“End-to-End Object Detection with Transformers”* — arXiv / PDF                                | [arXiv 2005.12872](https://arXiv.org/abs/2005.12872)                                                                                                                        |
+| **Mask2Former** | *“Masked-attention Mask Transformer for Universal Image Segmentation”* — arXiv / PDF          | [arXiv 2112.01527](https://arxiv.org/abs/2112.01527)                                                                                                                        |
+
+[1]: https://huggingface.co/papers/2010.11929?utm_source=chatgpt.com "Paper page - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+[2]: https://www.reddit.com/r/MachineLearning/comments/qt4y6g?utm_source=chatgpt.com "[D] (Paper Overview) MAE: Masked Autoencoders Are Scalable Vision Learners"
